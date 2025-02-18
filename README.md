@@ -1,2 +1,2 @@
 # Daybreak
-A simple proxy server for Github Maven repositories
+It's basically usable now, and I'm working on the caching and protection against malicious access parts.
